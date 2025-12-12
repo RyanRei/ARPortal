@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Terrain.unity
+    guid: 2a3574d373bac6c46a20c1c189d808f9
+  - enabled: 1
+    path: Assets/Scenes/OnMoon.unity
+    guid: ccc5c6681b9945040b6db450c3a272a7
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2138a57002da1da41b2115165f56eaa0, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 218d7cb611dd9c94c8c5016ef2caa9dc, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: acf3629be61af1645b63075087ba0d50, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8ff1bd07e2f36d1449795c1309f54168, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 21cd0d8bbcc69fe43a09e20415455953, type: 2}
+  m_UseUCBPForAssetBundles: 0
